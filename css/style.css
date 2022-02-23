@@ -176,6 +176,15 @@ header .collapse .navbar-nav a:hover{
     font-size: 2.5rem;
 }
 
+/* Recipe */
+
+.recipe .container .row .col-sm-6 span{
+    color:var(--green);
+    font-weight: bolder;
+    margin-right: 1rem;
+    font-size: 4.5rem;
+}
+
 
 
 
